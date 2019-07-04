@@ -7,7 +7,8 @@ class ClickityClick extends React.Component {
 
     // Define the initial state:
     this.state = {
-      hasBeenClicked: false
+      hasBeenClicked: false,
+      currentTheme: 'blue'
     };
   }
 
